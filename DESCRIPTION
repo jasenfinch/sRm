@@ -65,3 +65,4 @@ Collate:
     'plotSample-method.R'
     'removeSample-method.R'
     'show-method.R'
+Remotes: wilsontom/q3ML
